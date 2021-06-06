@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "@types/node": "12.12.28",
-    "ts-node": "8.6.2",
+    "ts-node": "10.0.0",
     "tslint": "5.20.1",
     "tslint-config-airbnb": "5.11.2",
     "tsutils": "3.17.1"
